@@ -1,0 +1,26 @@
+{
+  "name": "replyify-app-email-auto-responder",
+  "version": "1.0.0",
+  "description": "Email Auto Responder an automated email responder that writes personalized follow-ups with AI",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "email-auto-responder",
+    "autoresponder",
+    "email-automation",
+    "ai",
+    "follow-up",
+    "customer-service",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Replyify",
+  "license": "ISC",
+  "homepage": "https://replyify.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/replyify-app/email-auto-responder.git"
+  }
+}
